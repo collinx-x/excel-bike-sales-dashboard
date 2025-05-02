@@ -1,6 +1,6 @@
 # Excel bike sales dashboard project
 This project is an interactive excel dashboard designed to visualize and analyze bike sales data for better decision making.
-##features 
+## features 
 -interactive charts and graphs 
 -sales trends by age, region, distance and income
 -key performance indicators
